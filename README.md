@@ -1,2 +1,0 @@
-# ecosis.shop
-ecosis Shop
